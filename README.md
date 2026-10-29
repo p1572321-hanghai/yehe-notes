@@ -3,8 +3,9 @@
 来源：与 Muse（Brio）的对话精华笔记，每天一篇，只记结论、链接、数字和待办，不贴原文长记录。
 
 结构：
-- 主号/daily-notes/YYYY-MM-DD.md：主号每日精华
-- 二号/daily-notes/YYYY-MM-DD.md：二号每日精华（以此类推，每个号一个文件夹）
+- muse/sitses/daily-notes/YYYY-MM-DD.md：本号（sitses）每日精华
+- muse/其他名字/daily-notes/YYYY-MM-DD.md：其他 Muse 号的每日精华（以此类推，每个号一个文件夹）
+- 其他 AI 工具以后各用自己的一级文件夹
 - 主题文件：重要的长期主题另起文件
 - 多账号：见 多账号同步说明.md
 
