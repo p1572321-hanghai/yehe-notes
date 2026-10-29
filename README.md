@@ -3,9 +3,10 @@
 来源：与 Muse（Brio）的对话精华笔记，每天一篇，只记结论、链接、数字和待办，不贴原文长记录。
 
 结构：
-- daily-notes/YYYY-MM-DD.md：每日精华（主号）
+- 主号/daily-notes/YYYY-MM-DD.md：主号每日精华
+- 二号/daily-notes/YYYY-MM-DD.md：二号每日精华（以此类推，每个号一个文件夹）
 - 主题文件：重要的长期主题另起文件
-- 多账号：见 多账号同步说明.md（新接入的号用自己的文件夹，不要动主号的文件）
+- 多账号：见 多账号同步说明.md
 
 同步方法：
 - 本仓库即 Obsidian vault，两台电脑 clone 后用 Obsidian 打开这个文件夹
